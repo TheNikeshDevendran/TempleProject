@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: math;
+}
+#about{
+    padding: 13px;
+    background-color: #dadada5c;
+    display: flex;
+}
+
+#about-img{
+    display: flex
+}
+
+.img1{
+    width: 317px;
+    height: 321px;
+    border-radius: 24px;
+    box-shadow: -2px 2px 6px #2f2e2e;
+}
+
+#about-info{
+    font-size: 18px;
+    padding: 46px;
+    font-family: math;
+    line-height: 28px;
+}
+
+.item-mem{
+    display: flex;
+    padding: 13px;
+    gap: 19px;
+}
+
+.member-img{
+    width: 198px;
+    border-radius: 32px;
+    height: 199px;
+    padding: 11px;
+
+}
+.item-bg-con{
+    background-color: #e3e6e8;;
+    width: 50%;
+    border-radius: 16px;
+    display: flex;
+}
+
+.mem-info{
+    padding: 19px;
+}
